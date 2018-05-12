@@ -1,0 +1,37 @@
+_repo: Discours-prodigieux-et-espouventable-de-trois-Espaignols-et-une-Espagnolle---13-Magiciens-et-__13938
+_version: 0.1.0
+alternative_title: Discours prodigieux et épouventable, de trois espagnols et une
+  espagnolle, magiciens et sorciers, qui se faisaient porter par les diables, de ville
+  en ville...
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+description: ''
+gutenberg_bookshelf: FR Occultisme
+gutenberg_issued: '2004-11-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13938'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Witchcraft'
+- !lcc 'BF'
+title: "Discours prodigieux et espouventable de trois Espaignols et une Espagnolle,\r\
+  \nMagiciens et sorciers qui se faisoient porter par les diables, de ville en ville,\
+  \ avec leurs déclarations d'avoir fait mourir plusieurs personnes et bestail par\
+  \ leurs sorcillèges, et aussi d'avoir fait plusieurs dégats aux biens de la terre\
+  \ : Ensemble l'arrest prononcé contre eux par la Cour de Parlement de Bourdeaux,\
+  \ le Samedy 10. jour de Mars, 1610"
+url: http://www.gutenberg.org/ebooks/13938
